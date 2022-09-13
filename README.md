@@ -11,7 +11,7 @@ The Purpose of this software is to make sure Git, Visual Studio Code, and Github
 
 
 ## Youtube Demo Video
-[Software Demo Video](http://youtube.link.goes.here)
+[Hello World Demo](http://youtube.link.goes.here)
 
 # Development Environment
 
@@ -22,4 +22,4 @@ The tools that I used for this project were:
 3. Python 3.8.2 
 
 # Useful Websites
-No Websites were used for this Lab.
+No Websites were used for this Lab.  I had previously installed Python and git from other college courses.
