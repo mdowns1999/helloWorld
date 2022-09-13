@@ -11,7 +11,7 @@ The Purpose of this software is to make sure Git, Visual Studio Code, and Github
 
 
 ## Youtube Demo Video
-[Hello World Demo](http://youtube.link.goes.here)
+[Hello World Demo](http://youtu.be/jXmMcwCbUyM?hd=1)
 
 # Development Environment
 
